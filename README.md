@@ -1,5 +1,6 @@
 # Aerospace setup
-Basic config and guide for MacOS app Aerospace
+
+Basic config and guide for MacOS Windows Manager app [Aerospace](https://github.com/nikitabobko/AeroSpace)
 
 
 ## Config file
@@ -29,6 +30,24 @@ Check the app and assign it to a workspace:
 if.app-id = 'com.apple.Notes'
 run = "move-node-to-workspace N"
 ```
+
+### Check the arrow keys
+
+```
+# See: https://nikitabobko.github.io/AeroSpace/commands#focus
+alt-j = 'focus left'
+alt-k = 'focus down'
+alt-i = 'focus up'
+alt-l = 'focus right'
+
+# See: https://nikitabobko.github.io/AeroSpace/commands#move
+alt-shift-j = 'move left'
+alt-shift-k = 'move down'
+alt-shift-i = 'move up'
+alt-shift-l = 'move right'
+```
+
+
 
 ## Box shortcuts
 
