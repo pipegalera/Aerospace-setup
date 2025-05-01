@@ -1,6 +1,6 @@
 # Aerospace setup
 
-Basic config and guide for MacOS Windows Manager app [Aerospace](https://github.com/nikitabobko/AeroSpace)
+Basic config and minimal guide for *my usage of* MacOS Windows Manager app [Aerospace](https://github.com/nikitabobko/AeroSpace)
 
 
 ## Config file
@@ -46,8 +46,6 @@ alt-shift-k = 'move down'
 alt-shift-i = 'move up'
 alt-shift-l = 'move right'
 ```
-
-
 
 ## Box shortcuts
 
