@@ -2,6 +2,8 @@
 
 My personal config + minimal guide for MacOS Windows Manager app [Aerospace](https://github.com/nikitabobko/AeroSpace)
 
+[logo](https://raw.githubusercontent.com/nikitabobko/AeroSpace/refs/heads/main/resources/Assets.xcassets/AppIcon.appiconset/icon.png)
+
 ## Config file
 
 ```˙˙˙˙
