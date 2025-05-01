@@ -8,7 +8,7 @@ Basic config and guide for MacOS app Aerospace
 brew install aerospace curl
 echo 'export PATH="/usr/local/opt/curl/bin:$PATH"' >> ~/.zshrc
 mkdir && cd ~/.config/aerospace/
-curl asd --output ~/.config/aerospace/aerospace.toml
+curl https://raw.githubusercontent.com/pipegalera/Aerospace-setup/refs/heads/main/aerospace.toml --output ~/.config/aerospace/aerospace.toml
 ```
 
 
