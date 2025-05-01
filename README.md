@@ -1,7 +1,6 @@
 # Aerospace setup
 
-Basic config and minimal guide for *my usage of* MacOS Windows Manager app [Aerospace](https://github.com/nikitabobko/AeroSpace)
-
+My personal config + minimal guide for MacOS Windows Manager app [Aerospace](https://github.com/nikitabobko/AeroSpace)
 
 ## Config file
 
@@ -11,7 +10,6 @@ echo 'export PATH="/usr/local/opt/curl/bin:$PATH"' >> ~/.zshrc
 mkdir && cd ~/.config/aerospace/
 curl https://raw.githubusercontent.com/pipegalera/Aerospace-setup/refs/heads/main/aerospace.toml --output ~/.config/aerospace/aerospace.toml
 ```
-
 
 ### Move cursor with the window change
 
