@@ -4,10 +4,10 @@ My personal config + minimal guide for MacOS Windows Manager app [Aerospace](htt
 
 ## Config file
 
-```
-brew install aerospace curl
-echo 'export PATH="/usr/local/opt/curl/bin:$PATH"' >> ~/.zshrc
-mkdir && cd ~/.config/aerospace/
+```˙˙˙˙
+brew install --cask nikitabobko/tap/aerospace
+brew install curl
+mkdir ~/.config/aerospace/
 curl https://raw.githubusercontent.com/pipegalera/Aerospace-setup/refs/heads/main/aerospace.toml --output ~/.config/aerospace/aerospace.toml
 ```
 
