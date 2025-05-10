@@ -14,7 +14,7 @@ mkdir ~/.config/aerospace/
 curl https://raw.githubusercontent.com/pipegalera/Aerospace-setup/refs/heads/main/aerospace.toml --output ~/.config/aerospace/aerospace.toml
 ```
 
-### Move cursor with the window change
+### Move cursor after the window changes
 
 ```
 on-focus-changed = "move-mouse window-lazy-center"
@@ -35,7 +35,7 @@ run = "move-node-to-workspace N"
 ### Check the arrow keys
 
 ```
-# See: https://nikitabobko.github.io/AeroSpace/commands#focus
+# See: https://nikitabobko.github.io/AeroSpace/commands#focusl…–
 alt-j = 'focus left'
 alt-k = 'focus down'
 alt-i = 'focus up'
@@ -48,13 +48,21 @@ alt-shift-i = 'move up'
 alt-shift-l = 'move right'
 ```
 
-## Box shortcuts
+### Main config
 
-- Move box: `alt-shift-;`
 - Move box to fullscreen: `alt-shift-f = 'fullscreen'`
 - Increase size left box:`alt-1 = 'resize smart -50'`
 - Increase size right box: `alt-2 = 'resize smart +50'`
+  
+
+## Box shortcuts
+
+- Move box: `alt-shift-;`
+- Move box to fullscreen: `alt-shift-f`
+- Increase size left box:`alt-1`
+- Increase size right box: `alt-2`
 - Service mode: `alt-shift-;`
+- Free float a window: i) Go to box, ii) Service Mode, iii) press `h`h÷
 - Merge box: i) Go to box, ii) Service Mode, iii) Move box
 - Unmerge box: i) Go to box, ii) Move box
 - Swith to Accordeon layout: `alt-,`
@@ -63,5 +71,16 @@ alt-shift-l = 'move right'
 ## Workspace shortcuts
 
 - Move box to Workspace: `alt-shift-{Workspace letter or number}`
+
+## Main 
+
+- Zed: `alt-Q`
+- Browser: `alt-W`
+- Terminal: `alt-E`
+
+## Apps
+
 - Outlook: `alt-O`
 - Apple Notes: `alt-N`
+- Github/Git: `alt-G`
+- Zotero: `alt-Z`
