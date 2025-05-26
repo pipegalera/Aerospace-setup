@@ -62,7 +62,7 @@ alt-shift-l = 'move right'
 - Increase size left box:`alt-1`
 - Increase size right box: `alt-2`
 - Service mode: `alt-shift-;`
-- Free float a window: i) Go to box, ii) Service Mode, iii) press `h`h÷
+- Free float a window: i) Go to box, ii) Service Mode, iii) press `h`
 - Merge box: i) Go to box, ii) Service Mode, iii) Move box
 - Unmerge box: i) Go to box, ii) Move box
 - Swith to Accordeon layout: `alt-,`
