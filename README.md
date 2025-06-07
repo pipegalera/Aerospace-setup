@@ -57,14 +57,14 @@ alt-shift-l = 'move right'
 
 ## Box shortcuts
 
-- Move box: `alt-shift-;`
-- Move box to fullscreen: `alt-shift-f`
+- Move box: `alt-shift-;` -> `alt-shift-move key`
+- Move box to fullscreen: `alt-shift-f` (same keys to move back
 - Increase size left box:`alt-1`
 - Increase size right box: `alt-2`
 - Service mode: `alt-shift-;`
-- Free float a window: i) Go to box, ii) Service Mode, iii) press `h`
-- Merge box: i) Go to box, ii) Service Mode, iii) Move box
-- Unmerge box: i) Go to box, ii) Move box
+- Free float a window: Go to box -> Service Mode -> press `f` (from "floating")
+- Merge box: Go to box -> Service Mode -> Move box
+- Unmerge box: Go to box -> Move box
 - Swith to Accordeon layout: `alt-,`
 - Swith to Tiles layout: `alt-/`
 
